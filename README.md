@@ -7,5 +7,5 @@
 
 ## ==Program Instructions:==
 
-Run the Main.py
+Run the main.py
 
